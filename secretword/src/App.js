@@ -61,7 +61,7 @@ function App() {
 
 
     
-    console.log(wordLetters)
+    
 
     //fill state
     setPickedWord(word)
